@@ -6219,11 +6219,11 @@ a.gallery-more i {
 }
 
 .feature-card-content-wallet {
-background-color: #fad477;
+background-color: #0CB315;
 }
 
 .feature-card-title-wallet {
-color:#282828;
+color:#ffffff;
 font-size: 20px;
 font-family: 'Roboto', sans-serif;
 font-style: normal;
@@ -6242,8 +6242,8 @@ color:white;
 }
 .btn--gradient-graph {
 
-color:#ffb504;
-border: 2px solid #ffb504;
+color:#f8a330;
+border: 2px solid #f8a330;
 border-radius: 5px;
 margin-top:7px;
 margin-bottom:5px;
@@ -6253,7 +6253,7 @@ margin-bottom:5px;
 
 .btn--gradient-wallet-1 {
 
-background: #ffb504;
+background: #f18c21;
 color:white;
 
 }
